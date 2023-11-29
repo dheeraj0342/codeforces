@@ -11,7 +11,7 @@ int main(){
                 cnt++;
             }
         }
-    }
+    } 
     if(cnt ==3){
         printf("%d\n",2);
     }
